@@ -1,0 +1,91 @@
+command_id: DB33.015B
+test_cases:
+- expected_values:
+    BAT_SOC: 41.56863
+  response: 18DAF10103415B6A
+- expected_values:
+    BAT_SOC: 50.58824
+  response: |-
+    18DAF10103415B81
+    18DAF10E03415B81
+    18DAF11503415B7F
+    18DAF12A03415B81
+- expected_values:
+    BAT_SOC: 52.94118
+  response: |-
+    18DAF10103415B88
+    18DAF10E03415B88
+    18DAF12A03415B88
+    18DAF11503415B87
+- expected_values:
+    BAT_SOC: 62.35294
+  response: |-
+    18DAF10103415B9F
+    18DAF10E03415B9F
+    18DAF11503415B9E
+    18DAF12A03415B9F
+- expected_values:
+    BAT_SOC: 87.84314
+  response: |-
+    18DAF10103415BE0
+    18DAF10E03415BE0
+    18DAF11503415BE0
+    18DAF12A03415BE0
+- expected_values:
+    BAT_SOC: 96.47059
+  response: |-
+    18DAF10103415BF6
+    18DAF10E03415BF6
+    18DAF11503415BF4
+    18DAF12A03415BF6
+- expected_values:
+    BAT_SOC: 40.78431
+  response: 18DAF10E03415B68
+- expected_values:
+    BAT_SOC: 43.52941
+  response: |-
+    18DAF10E03415B6F
+    18DAF10103415B6F
+    18DAF11503415B6D
+    18DAF12A03415B6F
+- expected_values:
+    BAT_SOC: 48.62745
+  response: |-
+    18DAF10E03415B7C
+    18DAF11503415B7A
+    18DAF10103415B7C
+    18DAF12A03415B7C
+- expected_values:
+    BAT_SOC: 63.92157
+  response: |-
+    18DAF10E03415BA4
+    18DAF12A03415BA4
+    18DAF10103415BA4
+    18DAF11503415BA3
+- expected_values:
+    BAT_SOC: 98.82353
+  response: 18DAF10E03415BFC
+- expected_values:
+    BAT_SOC: 99.21569
+  response: |-
+    18DAF10E03415BFD
+    18DAF10103415BFD
+    18DAF11503415BFC
+    18DAF12A03415BFD
+- expected_values:
+    BAT_SOC: 99.60784
+  response: |-
+    18DAF10E03415BFE
+    18DAF10103415BFE
+    18DAF11503415BFC
+    18DAF12A03415BFE
+- expected_values:
+    BAT_SOC: 63.13725
+  response: |-
+    18DAF11503415BA0
+    18DAF10103415BA1
+    18DAF10E03415BA1
+    18DAF12A03415BA1
+- expected_values:
+    BAT_SOC: 42.7451
+  response: 18DAF12A03415B6D

@@ -1,6 +1,11 @@
 command_id: DB33.0131
 test_cases:
 - expected_values:
+    CLR_DIST: 2978
+  response: "18 DA F1 01 04 41 31 4A 16 \n18 DA F1 06 04 41 31 0B A0 \n18 DA F1 0E
+    04 41 31 0B CF \n18 DA F1 2A 04 41 31 2A 2D \n18 DA F1 02 04 41 31 0B A0 \n18
+    DA F1 15 04 41 31 48 1C \n18 DA F1 16 04 41 31 0B A2 "
+- expected_values:
     CLR_DIST: 4389
   response: 18DAF1010441311125
 - expected_values:

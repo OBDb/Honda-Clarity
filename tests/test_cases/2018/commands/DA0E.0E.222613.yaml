@@ -1,6 +1,13 @@
 command_id: DA0E.0E.222613
 test_cases:
 - expected_values:
+    HONDA_AC_P: 1000
+  response: "18 DA F1 0E 10 39 62 26 13 EF E0 00 \n18 DA F1 0E 21 00 00 30 00 80 00
+    00 \n18 DA F1 0E 22 6C A5 02 93 62 04 71 \n18 DA F1 0E 23 00 00 00 00 00 00 00
+    \n18 DA F1 0E 24 00 00 00 00 00 00 00 \n18 DA F1 0E 25 00 00 00 00 00 00 00 \n18
+    DA F1 0E 26 00 00 00 00 00 00 00 \n18 DA F1 0E 27 00 00 00 00 00 00 00 \n18 DA
+    F1 0E 28 00 00 55 55 55 55 55 "
+- expected_values:
     HONDA_AC_P: 842
   response: |-
     18DAF10E1039622613EFE000

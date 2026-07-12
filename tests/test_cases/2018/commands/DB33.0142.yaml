@@ -1,6 +1,14 @@
 command_id: DB33.0142
 test_cases:
 - expected_values:
+    VPWR: 14.506
+  response: "18 DA F1 0E 04 41 42 39 2D \n18 DA F1 01 04 41 42 37 6E \n18 DA F1 06
+    04 41 42 36 C4 \n18 DA F1 02 04 41 42 36 CE \n18 DA F1 15 04 41 42 37 E6 \n18
+    DA F1 16 04 41 42 37 78 \n18 DA F1 2A 04 41 42 38 AA "
+- expected_values:
+    VPWR: 14.2
+  response: '18 DA F1 16 04 41 42 37 78 '
+- expected_values:
     VPWR: 12.15
   response: |-
     18DAF1010441422F76

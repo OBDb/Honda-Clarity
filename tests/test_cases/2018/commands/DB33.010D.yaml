@@ -1,8 +1,18 @@
 command_id: DB33.010D
 test_cases:
 - expected_values:
+    VSS: 60
+  response: "18 DA F1 06 03 41 0D 3C \n18 DA F1 02 03 41 0D 3C \n18 DA F1 0E 03 41
+    0D 3C \n18 DA F1 2A 03 41 0D 3C \n18 DA F1 01 03 41 0D 3C \n18 DA F1 15 03 41
+    0D 3C \n18 DA F1 16 03 41 0D 3C "
+- expected_values:
     VSS: 64
   response: '18 DA F1 16 03 41 0D 40 '
+- expected_values:
+    VSS: 80
+  response: "18 DA F1 2A 03 41 0D 50 \n18 DA F1 01 03 41 0D 50 \n18 DA F1 02 03 41
+    0D 50 \n18 DA F1 06 03 41 0D 50 \n18 DA F1 0E 03 41 0D 50 \n18 DA F1 15 03 41
+    0D 50 \n18 DA F1 16 03 41 0D 50 "
 - expected_values:
     VSS: 0
   response: 18DAF10103410D00

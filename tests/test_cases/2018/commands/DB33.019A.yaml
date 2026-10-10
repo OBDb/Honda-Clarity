@@ -215,7 +215,7 @@ test_cases:
     HEV_BATT_A_SUP: 1
     HEV_BATT_V: 294.4375
     HEV_BATT_V_SUP: 1
-    HEV_MODE: CSM
+    HEV_MODE: CDM
     HEV_MODE_SUP: 1
   response: |-
     18DAF1011008419A0701499C
@@ -231,7 +231,7 @@ test_cases:
     HEV_BATT_A_SUP: 1
     HEV_BATT_V: 320.51562
     HEV_BATT_V_SUP: 1
-    HEV_MODE: CSM
+    HEV_MODE: CDM
     HEV_MODE_SUP: 1
   response: |-
     18DAF1011008419A07015021
@@ -247,7 +247,7 @@ test_cases:
     HEV_BATT_A_SUP: 1
     HEV_BATT_V: 340.9375
     HEV_BATT_V_SUP: 1
-    HEV_MODE: CSM
+    HEV_MODE: CDM
     HEV_MODE_SUP: 1
   response: |-
     18DAF1011008419A0701553C
@@ -471,7 +471,7 @@ test_cases:
     HEV_BATT_A_SUP: 1
     HEV_BATT_V: 290.82812
     HEV_BATT_V_SUP: 1
-    HEV_MODE: CSM
+    HEV_MODE: CDM
     HEV_MODE_SUP: 1
   response: |-
     18DAF10E1008419A070148B5
@@ -487,7 +487,7 @@ test_cases:
     HEV_BATT_A_SUP: 1
     HEV_BATT_V: 319.53125
     HEV_BATT_V_SUP: 1
-    HEV_MODE: CSM
+    HEV_MODE: CDM
     HEV_MODE_SUP: 1
   response: |-
     18DAF10E1008419A07014FE2
